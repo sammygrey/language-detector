@@ -1,0 +1,8 @@
+ipykernel
+sklearn
+numpy
+matplotlib
+glob2
+nltk
+textblob
+tensorflow
